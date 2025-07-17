@@ -10,7 +10,7 @@ Step-by-Step Guide to Activating Your Roku Device
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_16.png
    :width: 350px
    :align: center
    :height: 100px
